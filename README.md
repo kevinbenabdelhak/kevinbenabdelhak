@@ -5,7 +5,7 @@ Hello ! Je suis Kevin Benabdelhak, développeur web depuis 2015 et je me spécia
 - HTML / CSS / JS
 - PHP
 - WordPress 
-- Python (PY)
+- Python 
 
 ## 🚀 Projets Phares
 
@@ -44,7 +44,7 @@ Verifsites est un outil de vérificaion de fiabilité des sites web, visant à p
 - **Protection contre la désinformation**
 - **Outils pour les professionnels**
 - **Premium : Badge personnalisée intégrable + lien Dofollow**
-- 
+
 ## 📈 Objectifs
 - Aider mes clients à gagner du temps et à booster leur visibilité en ligne
 - Partager et collaborer sur des projets innovants

@@ -19,7 +19,8 @@ Indexation.io Premium contient également un plugin WordPress dédiée à l'inde
 - **Ping à PubSubHubbub Hub**
 - **Programmer l'indexation d'une URL**
 - **Indexation automatique par Flux RSS**
-- **Plugin d'indexation WordPress**
+- **Plugin WordPress**
+- **Plugin Google Chrome**
 
 
 ### [K-Graphiste.com](https://k-graphiste.com)

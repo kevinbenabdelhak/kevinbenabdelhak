@@ -5,7 +5,7 @@ Hello ! Je suis Kevin Benabdelhak, développeur web depuis 2015 et je me spécia
 - HTML / CSS / JS
 - PHP
 - WordPress 
-- Python 
+- Python
 
 ## 🚀 Projets Phares
 

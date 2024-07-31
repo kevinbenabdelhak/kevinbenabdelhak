@@ -10,6 +10,7 @@ Hello ! Je suis Kevin Benabdelhak, développeur web depuis 2015 et je me spécia
 ## 🚀 Projets Phares
 
 ### [Indexation.io](https://indexation.io)
+![Capture d'écran indexation.io](https://kevin-benabdelhak.fr/wp-content/uploads/2024/06/indexation-1024x780.png)
 Indexation.io est un outil gratuit conçu pour améliorer la visibilité de votre site internet sur Google. Il facilite l'indexation rapide et efficace des pages web via l'API de Google.
 Indexation.io Premium contient également un plugin WordPress dédiée à l'indexation Google, ainsi qu'un mécanisme d'automatisation des requêtes à l'API.
 
@@ -24,6 +25,7 @@ Indexation.io Premium contient également un plugin WordPress dédiée à l'inde
 
 
 ### [K-Graphiste](https://k-graphiste.com)
+![Capture d'écran K-Graphiste](https://kevin-benabdelhak.fr/wp-content/uploads/2024/06/k-graphiste-1024x780.png)
 K-Graphiste est une plateforme e-commerce spécialisé dans le design graphique, offrant des solutions personnalisées pour le développement d’identités visuelles et la communication digitale des entreprises.Proposant des solutions personnalisées et variées, K-Graphiste s’engage à fournir des visuels de haute qualité pour renforcer l’image de marque de ses clients. De la création de logos à la rédaction web, en passant par l’impression publicitaire, K-Graphiste met son expertise au service des entrepreneurs, marques et institutions.
 
 ### Fonctionnalités principales
@@ -35,6 +37,7 @@ K-Graphiste est une plateforme e-commerce spécialisé dans le design graphique,
 - **Application mobile (Google play)**
 
 ### [VerifSites](https://verifsites.com)
+![Capture d'écran VerifSites](https://kevin-benabdelhak.fr/wp-content/uploads/2024/06/verifsitescom-1024x780.png)
 Verifsites est un outil de vérificaion de fiabilité des sites web, visant à protéger les utilisateurs contre les arnaques et la désinformation en ligne. En offrant des évaluations précises et des informations cruciales sur la sécurité des sites, VerifSites.com fournit un outil indispensable pour naviguer sur Internet en toute tranquillité.
 
 ### Fonctionnalités Principales
@@ -47,6 +50,7 @@ Verifsites est un outil de vérificaion de fiabilité des sites web, visant à p
 - **Premium : Badge personnalisée intégrable + lien Dofollow**
 
 ### [WPfacturationPro](https://wpfacturationpro.fr)
+![Capture d'écran WPfacturationPro](https://kevin-benabdelhak.fr/wp-content/uploads/2024/06/wpfacturationpro-1024x780.png)
 WPfacturationPro est prêt à alléger votre charge de travail en automatisant le processus de facturation entre votre boutique Woocommerce et Facturation.Pro. Ce plugin simplifie la génération de comptes clients, de factures, et d’avoirs, vous permettant ainsi de vous concentrer sur l’essentiel.
 
 ### Fonctionnalités Principales

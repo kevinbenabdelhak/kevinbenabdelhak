@@ -23,7 +23,7 @@ Indexation.io Premium contient également un plugin WordPress dédiée à l'inde
 - **Plugin Google Chrome**
 
 
-### [K-Graphiste.com](https://k-graphiste.com)
+### [K-Graphiste](https://k-graphiste.com)
 K-Graphiste est une plateforme e-commerce spécialisé dans le design graphique, offrant des solutions personnalisées pour le développement d’identités visuelles et la communication digitale des entreprises.Proposant des solutions personnalisées et variées, K-Graphiste s’engage à fournir des visuels de haute qualité pour renforcer l’image de marque de ses clients. De la création de logos à la rédaction web, en passant par l’impression publicitaire, K-Graphiste met son expertise au service des entrepreneurs, marques et institutions.
 
 ### Fonctionnalités principales
@@ -34,7 +34,7 @@ K-Graphiste est une plateforme e-commerce spécialisé dans le design graphique,
 - **Notification push**
 - **Application mobile (Google play)**
 
-### [VerifSites.com](https://verifsites.com)
+### [VerifSites](https://verifsites.com)
 Verifsites est un outil de vérificaion de fiabilité des sites web, visant à protéger les utilisateurs contre les arnaques et la désinformation en ligne. En offrant des évaluations précises et des informations cruciales sur la sécurité des sites, VerifSites.com fournit un outil indispensable pour naviguer sur Internet en toute tranquillité.
 
 ### Fonctionnalités Principales
@@ -46,7 +46,7 @@ Verifsites est un outil de vérificaion de fiabilité des sites web, visant à p
 - **Outils pour les professionnels**
 - **Premium : Badge personnalisée intégrable + lien Dofollow**
 
-### [wpfacturationpro.fr](https://wpfacturationpro.fr)
+### [WPfacturationPro](https://wpfacturationpro.fr)
 WPfacturationPro est prêt à alléger votre charge de travail en automatisant le processus de facturation entre votre boutique Woocommerce et Facturation.Pro. Ce plugin simplifie la génération de comptes clients, de factures, et d’avoirs, vous permettant ainsi de vous concentrer sur l’essentiel.
 
 ### Fonctionnalités Principales

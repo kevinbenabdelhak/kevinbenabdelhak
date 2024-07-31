@@ -46,6 +46,17 @@ Verifsites est un outil de vérificaion de fiabilité des sites web, visant à p
 - **Outils pour les professionnels**
 - **Premium : Badge personnalisée intégrable + lien Dofollow**
 
+### [wpfacturationpro.fr](https://wpfacturationpro.fr)
+WPfacturationPro est prêt à alléger votre charge de travail en automatisant le processus de facturation entre votre boutique Woocommerce et Facturation.Pro. Ce plugin simplifie la génération de comptes clients, de factures, et d’avoirs, vous permettant ainsi de vous concentrer sur l’essentiel.
+
+### Fonctionnalités Principales
+- **Plugin freemium Woocommerce lié à facturation.pro**
+- **Configuration simplifiée**
+- **Génération de compte client**
+- **Génération de factures**
+- **Téléchargement des factures**
+- **Génération d'avoirs**
+
 ## 📈 Objectifs
 - Aider mes clients à gagner du temps et à booster leur visibilité en ligne
 - Partager et collaborer sur des projets innovants

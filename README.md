@@ -1,4 +1,4 @@
-# 👋 Hello, je suis Kevin BENABDELHAK
+# 👋 Hello, je suis Kevin Benabdelhak
 Hello ! Je suis Kevin Benabdelhak, développeur web depuis 2015 et je me spécialise dans la création de fonctionnalités avancées pour les sites web. Mon objectif est d'apporter de la valeur ajoutée à chaque projet en automatisant des tâches récurrentes et en développant des outils sur-mesure. J'ai été formé au métier de développeur web au Conservatoire Nationale des Arts et Métiers à Nancy en 2015. 
 
 ## 🔧 Technologies & Outils

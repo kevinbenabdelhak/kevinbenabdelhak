@@ -3,9 +3,11 @@ Hello ! Je suis Kevin Benabdelhak, développeur web depuis 2015 et je me spécia
 
 ## 🔧 Technologies & Outils
 - HTML / CSS / JS
-- PHP
-- WordPress 
+- PHP + SQL
+- CMS WordPress 
 - Python
+- cURL
+- VueJS
 
 ## 🚀 Projets Phares
 

@@ -38,6 +38,15 @@ K-Graphiste est une plateforme e-commerce spécialisé dans le design graphique,
 - **Notification push**
 - **Application mobile (Google play)**
 
+
+### [Shinobi.club](https://shinobi.club)
+<img src="https://kevin-benabdelhak.fr/wp-content/uploads/2024/11/shinobi-club.png" width="600px">
+Shinobi.club est une plateforme de ninjalinking spécialisé dans l’acquisition de liens pour augmenter la popularité des sites web sur les moteurs de recherche comme Google, Bing…
+
+### Fonctionnalités Principales
+- **Packs de liens disponibles à l'achat**
+- **Espace client & Suivi des projets**
+
 ### [VerifSites](https://verifsites.com)
 <img src="https://kevin-benabdelhak.fr/wp-content/uploads/2024/06/verifsitescom-1024x780.png" width="600px">
 Verifsites est un outil de vérificaion de fiabilité des sites web, visant à protéger les utilisateurs contre les arnaques et la désinformation en ligne. En offrant des évaluations précises et des informations cruciales sur la sécurité des sites, VerifSites.com fournit un outil indispensable pour naviguer sur Internet en toute tranquillité.

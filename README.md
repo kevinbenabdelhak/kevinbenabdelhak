@@ -1,6 +1,8 @@
 # 👋 Hello, je suis Kevin Benabdelhak
 Hello ! Je suis Kevin Benabdelhak, développeur web depuis 2015 et je me spécialise dans la création de fonctionnalités avancées pour les sites web. Mon objectif est d'apporter de la valeur ajoutée à chaque projet en automatisant des tâches récurrentes et en développant des outils sur-mesure. J'ai été formé au métier de développeur web au Conservatoire Nationale des Arts et Métiers à Nancy en 2015. 
 
+Découvrez mes projets de développeurs 
+
 ## 🔧 Technologies & Outils
 - HTML / CSS / JS
 - PHP + SQL
@@ -39,7 +41,7 @@ K-Graphiste est une plateforme e-commerce spécialisé dans le design graphique,
 - **Application mobile (Google play)**
 
 
-### [Shinobi.club](https://shinobi.club)
+### [Shinobi Club](https://shinobi.club)
 <img src="https://kevin-benabdelhak.fr/wp-content/uploads/2024/11/shinobi-club.png" width="600px">
 Shinobi.club est une plateforme de ninjalinking spécialisé dans l’acquisition de liens pour augmenter la popularité des sites web sur les moteurs de recherche comme Google, Bing…
 
@@ -72,6 +74,26 @@ WPfacturationPro est prêt à alléger votre charge de travail en automatisant l
 - **Téléchargement des factures**
 - **Génération d'avoirs**
 
+
+### [Cresus Cash](https://cresus.cash)
+<img src="https://kevin-benabdelhak.fr/wp-content/uploads/2025/01/cresus-cash-1024x780.png" width="600px">
+Cresus Cash est un site d’actualité financière dédié à la fourniture d’informations pertinentes et à jour sur divers thèmes économiques, que ce soit les paris sportifs, les investissements en bourse, les cryptomonnaies ou l’immobilier.
+
+### Fonctionnalités Principales
+- **Site internet 100% optimisé pour Google Discover**
+- **Publication d'actualité financière : Bourse, Paris sportifs, Bitcoins...**
+- **Module d'inscription à la Newsletter**
+
+### [Antipest Pro](https://https://antipestpro.fr/)
+<img src="https://kevin-benabdelhak.fr/wp-content/uploads/2025/01/antipest-pro-1024x780.png" width="600px">
+Antipest Pro est le leader des services de dératisation et de désinsectisation à Paris et en Île-de-France. Cette plateforme permet aux utilisateurs de bénéficier de solutions rapides et efficaces pour se débarrasser des nuisibles. Grâce à une interface conviviale et des fonctionnalités avancées, ce site garranti aux visiteurs une expérience utilisateur avancée.
+
+### Fonctionnalités Principales
+- **Site vitrine design pour prestataire de service**
+- **Adapté à toute les tailles d'écran**
+- **Module IA intégrée pour la reconnaissance d'image (relié à OpenAI, gpt-vision)**
+
+
 ## 📈 Objectifs
 - Aider mes clients à gagner du temps et à booster leur visibilité en ligne
 - Partager et collaborer sur des projets innovants
@@ -90,7 +112,6 @@ WPfacturationPro est prêt à alléger votre charge de travail en automatisant l
 Sur mon GitHub, vous découvrirez une multitude de projets et de ressources axés principalement sur la création de plugins WordPress. Mon objectif est de partager des outils et des fonctionnalités innovantes qui peuvent grandement améliorer la gestion de sites web et la productivité des entreprises. Voici ce que vous pouvez vous attendre à trouver :
 
 - **Plugins WordPress:** Une collection diversifiée de plugins WordPress développés pour répondre à des besoins spécifiques, allant de l'optimisation SEO à l'automatisation des tâches récurrentes.
-- **Scripts Python:** Des scripts Python pour divers usages, notamment l'automatisation, l'analyse de données, et l'amélioration de la performance des sites web.
 - **Outils Open Source:** Des outils gratuits que j'ai développés et mis à disposition pour la communauté, conçus pour faciliter la gestion quotidienne des sites web et la mise en place de fonctionnalités avancées.
 - **Projets Collaboratifs:** Des projets open-source sur lesquels je travaille ou collabore, avec la possibilité pour la communauté d'y apporter des contributions.
 - **Exemples et Tutoriels:** Des exemples de code et des tutoriels pour aider les développeurs à apprendre et implémenter des fonctionnalités avancées dans leurs propres projets.

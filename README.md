@@ -1,15 +1,18 @@
 # 👋 Hello, je suis Kevin Benabdelhak
-Hello ! Je suis Kevin Benabdelhak, développeur web et je me spécialise dans la création de fonctionnalités avancées pour les sites web. Mon objectif est d'apporter de la valeur ajoutée à chaque projet en automatisant des tâches récurrentes et en développant des outils sur-mesure. J'ai été formé au métier de développeur web au Conservatoire Nationale des Arts et Métiers à Nancy en 2015. 
 
-Découvrez mes projets de développeurs 
+Hello ! Je suis Kevin Benabdelhak, développeur web et je me spécialise dans la création de fonctionnalités avancées pour les sites web. Mon objectif est d'apporter de la valeur ajoutée à chaque projet en automatisant des tâches récurrentes et en développant des outils sur-mesure. J'ai été formé au métier de développeur web au Conservatoire Nationale des Arts et Métiers à Nancy en 2015.
 
-## 🔧 Technologies & Outils
+<b>Sur mon Github, vous trouverez tous mes projets open source⚡</b>
+
+## 🔧 Technologies utilisés
 - HTML / CSS / JS
 - PHP + SQL
 - CMS WordPress 
 - Python
 - cURL
 - VueJS
+
+<hr/>
 
 ## 🚀 Projets Phares
 
@@ -27,6 +30,7 @@ Indexation.io Premium contient également un plugin WordPress dédiée à l'inde
 - **Plugin WordPress**
 - **Plugin Google Chrome**
 
+<hr/>
 
 ### [K-Graphiste](https://k-graphiste.com)
 <img src="https://kevin-benabdelhak.fr/wp-content/uploads/2024/06/k-graphiste-1024x780.png" width="600px">
@@ -40,6 +44,7 @@ K-Graphiste est une plateforme e-commerce spécialisé dans le design graphique,
 - **Notification push**
 - **Application mobile (Google play)**
 
+<hr/>
 
 ### [Shinobi Club](https://shinobi.club)
 <img src="https://kevin-benabdelhak.fr/wp-content/uploads/2024/11/shinobi-club.png" width="600px">
@@ -48,6 +53,8 @@ Shinobi.club est une plateforme de ninjalinking spécialisé dans l’acquisitio
 ### Fonctionnalités Principales
 - **Packs de liens disponibles à l'achat**
 - **Espace client & Suivi des projets**
+
+<hr/>
 
 ### [VerifSites](https://verifsites.com)
 <img src="https://kevin-benabdelhak.fr/wp-content/uploads/2024/06/verifsitescom-1024x780.png" width="600px">
@@ -62,6 +69,8 @@ Verifsites est un outil de vérificaion de fiabilité des sites web, visant à p
 - **Outils pour les professionnels**
 - **Premium : Badge personnalisée intégrable + lien Dofollow**
 
+<hr/>
+
 ### [WPfacturationPro](https://wpfacturationpro.fr)
 <img src="https://kevin-benabdelhak.fr/wp-content/uploads/2024/06/wpfacturationpro-1024x780.png" width="600px">
 WPfacturationPro est prêt à alléger votre charge de travail en automatisant le processus de facturation entre votre boutique Woocommerce et Facturation.Pro. Ce plugin simplifie la génération de comptes clients, de factures, et d’avoirs, vous permettant ainsi de vous concentrer sur l’essentiel.
@@ -74,6 +83,7 @@ WPfacturationPro est prêt à alléger votre charge de travail en automatisant l
 - **Téléchargement des factures**
 - **Génération d'avoirs**
 
+<hr/>
 
 ### [Cresus Cash](https://cresus.cash)
 <img src="https://kevin-benabdelhak.fr/wp-content/uploads/2025/01/cresus-cash-1024x780.png" width="600px">
@@ -84,6 +94,8 @@ Cresus Cash est un site d’actualité financière dédié à la fourniture d’
 - **Publication d'actualité financière : Bourse, Paris sportifs, Bitcoins...**
 - **Module d'inscription à la Newsletter**
 
+<hr/>
+
 ### [Antipest Pro](https://https://antipestpro.fr/)
 <img src="https://kevin-benabdelhak.fr/wp-content/uploads/2025/01/antipest-pro-1024x780.png" width="600px">
 Antipest Pro est le leader des services de dératisation et de désinsectisation à Paris et en Île-de-France. Cette plateforme permet aux utilisateurs de bénéficier de solutions rapides et efficaces pour se débarrasser des nuisibles. Grâce à une interface conviviale et des fonctionnalités avancées, ce site garranti aux visiteurs une expérience utilisateur avancée.
@@ -92,6 +104,8 @@ Antipest Pro est le leader des services de dératisation et de désinsectisation
 - **Site vitrine design pour prestataire de service**
 - **Adapté à toute les tailles d'écran**
 - **Module IA intégrée pour la reconnaissance d'image (relié à OpenAI, gpt-vision)**
+
+<hr/>
 
 ### [Cettepersonnenexistepas.fr](https://cettepersonnenexistepas.fr/)
 <img src="https://kevin-benabdelhak.fr/wp-content/uploads/2025/01/cette-personne-nexiste-pas-1024x780.png" width="600px">
@@ -102,6 +116,7 @@ Cettepersonnenexistepas.fr permet de générer des images d’avatars uniques to
 - **Image à télécharger gratuitement**
 - **API libre & gratuite**
 
+<hr/>
 
 ## 📈 Objectifs
 - Aider mes clients à gagner du temps et à booster leur visibilité en ligne
@@ -116,6 +131,7 @@ Cettepersonnenexistepas.fr permet de générer des images d’avatars uniques to
 - Automatisation des tâches récurrentes via des outils personnalisés
 - Conception d'outils pour l'optimisation de la productivité des entreprises
 
+<hr/>
 
 ## 🖱 Que trouverez-vous sur mon Github ? 👇
 Sur mon GitHub, vous découvrirez une multitude de projets et de ressources axés principalement sur la création de plugins WordPress. Mon objectif est de partager des outils et des fonctionnalités innovantes qui peuvent grandement améliorer la gestion de sites web et la productivité des entreprises. Voici ce que vous pouvez vous attendre à trouver :
@@ -124,3 +140,11 @@ Sur mon GitHub, vous découvrirez une multitude de projets et de ressources axé
 - **Outils Open Source:** Des outils gratuits que j'ai développés et mis à disposition pour la communauté, conçus pour faciliter la gestion quotidienne des sites web et la mise en place de fonctionnalités avancées.
 - **Projets Collaboratifs:** Des projets open-source sur lesquels je travaille ou collabore, avec la possibilité pour la communauté d'y apporter des contributions.
 - **Exemples et Tutoriels:** Des exemples de code et des tutoriels pour aider les développeurs à apprendre et implémenter des fonctionnalités avancées dans leurs propres projets.
+
+### Mes contributions depuis 2024 👇
+![github-3D](https://github.com/user-attachments/assets/307f8bb1-b0ba-4bf6-9737-ebf8c53ad4d1)
+
+<i>Modèle 3D généré par <a href="https://github.com/github/gh-skyline">gh-skyline</a></i>
+
+
+

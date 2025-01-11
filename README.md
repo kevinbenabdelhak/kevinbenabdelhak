@@ -1,5 +1,5 @@
 # 👋 Hello, je suis Kevin Benabdelhak
-Hello ! Je suis Kevin Benabdelhak, développeur web depuis 2015 et je me spécialise dans la création de fonctionnalités avancées pour les sites web. Mon objectif est d'apporter de la valeur ajoutée à chaque projet en automatisant des tâches récurrentes et en développant des outils sur-mesure. J'ai été formé au métier de développeur web au Conservatoire Nationale des Arts et Métiers à Nancy en 2015. 
+Hello ! Je suis Kevin Benabdelhak, développeur web et je me spécialise dans la création de fonctionnalités avancées pour les sites web. Mon objectif est d'apporter de la valeur ajoutée à chaque projet en automatisant des tâches récurrentes et en développant des outils sur-mesure. J'ai été formé au métier de développeur web au Conservatoire Nationale des Arts et Métiers à Nancy en 2015. 
 
 Découvrez mes projets de développeurs 
 
@@ -92,6 +92,15 @@ Antipest Pro est le leader des services de dératisation et de désinsectisation
 - **Site vitrine design pour prestataire de service**
 - **Adapté à toute les tailles d'écran**
 - **Module IA intégrée pour la reconnaissance d'image (relié à OpenAI, gpt-vision)**
+
+### [Cettepersonnenexistepas.fr](https://cettepersonnenexistepas.fr/)
+<img src="https://kevin-benabdelhak.fr/wp-content/uploads/2025/01/cette-personne-nexiste-pas-1024x780.png" width="600px">
+Cettepersonnenexistepas.fr permet de générer des images d’avatars uniques totalement réalistes & utiles pour créer des auteurs fictifs.
+
+### Fonctionnalités Principales
+- **Génération d'image instantanée**
+- **Image à télécharger gratuitement**
+- **API libre & gratuite**
 
 
 ## 📈 Objectifs

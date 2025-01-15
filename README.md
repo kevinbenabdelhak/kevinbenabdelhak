@@ -1,3 +1,8 @@
+## En ce moment, 1 plugin WordPress tous les vendredis ! 
+
+<a href="https://kevin-benabdelhak.fr/plugins/"><img src="https://kevin-benabdelhak.fr/wp-content/uploads/2025/01/1-Plugins-WordPress-tous-les-vendredis.jpg" width="600px"></a>
+
+
 # 👋 Hello, je suis Kevin Benabdelhak
 
 Hello ! Je suis Kevin Benabdelhak, développeur web et je me spécialise dans la création de fonctionnalités avancées pour les sites web. Mon objectif est d'apporter de la valeur ajoutée à chaque projet en automatisant des tâches récurrentes et en développant des outils sur-mesure. J'ai été formé au métier de développeur web au Conservatoire Nationale des Arts et Métiers à Nancy en 2015.

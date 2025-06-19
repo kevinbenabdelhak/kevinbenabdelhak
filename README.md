@@ -118,6 +118,68 @@ Cettepersonnenexistepas.fr permet de générer des images d’avatars uniques to
 
 <hr/>
 
+### [herosdujeu.fr](https://herosdujeu.fr/)
+<img src="https://kevin-benabdelhak.fr/wp-content/uploads/2025/01/le-heros-du-jeu-1024x780.png" width="600px">
+Le Héros du Jeu est une plateforme d’actualité sur les jeux de chance, offrant une richesse d’informations et de ressources pour maximiser le plaisir et les gains des joueurs. 
+
+### Fonctionnalités Principales
+- **Guide de découverte des jeux de chance**
+- **Catégories de Jeux**
+- **Newsletter Hebdomadaire & Pop Notification**
+- **Actualités**
+
+<hr/>
+
+### [domaine-camelia.fr](https://domaine-camelia.fr/)
+<img src="https://kevin-benabdelhak.fr/wp-content/uploads/2025/01/le-domaine-de-camelia-1024x780.png" width="600px">
+Le Domaine de Camélia est l’espace parfait pour organiser des événements d’exception. Situé à Châtel-Saint-Germain, à seulement 5 minutes de Metz, ce lieu propose une salle privée modulable, un service traiteur sur-mesure, et des options de décoration personnalisées. Avec une équipe expérimentée, le Domaine de Camélia transforme chaque événement en une expérience inoubliable en combinant qualité, confort et professionnalisme.
+
+### Fonctionnalités Principales
+- **Présentation de salle privée**
+- **Optimisation des appels à l'action**
+- **Intégration des vidéos**
+
+<hr/>
+
+### [luniversdubaindejade.fr](https://luniversdubaindejade.fr/)
+<img src="https://kevin-benabdelhak.fr/wp-content/uploads/2025/01/lunivers-du-bain-de-jade-1024x780.png" width="600px">
+L’univers du Bain de Jade est une boutique en ligne qui offre une sélection de produits de bien-être naturels, conçus pour transformer chaque moment passé dans la salle de bain en une expérience relaxante et agréable. Avec une gamme variée de bougies parfumées, boules de bain effervescentes et savons doux, chaque produit est élaboré avec des ingrédients de qualité afin de nourrir et chouchouter la peau.
+
+### Fonctionnalités Principales
+- **Vente de produits de Bien-être**
+- **Options personnalisées**
+- **Plugin de livraison Colissimo**
+
+<hr/>
+
+### [groupemartin.com](https://groupemartin.com/)
+<img src="https://kevin-benabdelhak.fr/wp-content/uploads/2025/03/site-internet-groupe-martin-1024x780.png" width="600px">
+Groupe Martin est une marque spécialisée dans la construction de villas individuelles en ossature bois, une solution écologique et économique pour un habitat durable et confortable. Le site internet présente plusieurs villas sur-mesure à vendre en construction. Le site a également été décliné pour la suisse sous le nom de Martin & Associés et intègre d’autres types de bien immobiliers.
+
+### Fonctionnalités Principales
+- **Logo & Charte graphique**
+- **Design de site sur-mesure**
+- **Présentations des villas en ossatures bois**
+- **Widgets d'appel à l'action**
+- **Support client 7j/7**
+
+<hr/>
+
+### [glaciere-voiture.com](https://www.glaciere-voiture.com/)
+<img src="https://kevin-benabdelhak.fr/wp-content/uploads/2025/06/glaciere-voiture-1024x780.png" width="600px">
+Glacière Voiture est un site e-commerce dédié à la vente de glacière électrique pour voiture. Le site présente des produits conçus pour répondre à tous vos besoins de conservation et de refroidissement lors de vos trajets.
+
+### Fonctionnalités Principales
+- **Identité visuelle : Logo, couleurs, font**
+- **Catalogue de glacières éléctriques**
+- **Pages catégories + Pages produits**
+- **Possibilité de commander en ligne**
+- **Blog**
+- **Support client**
+
+<hr/>
+
+
 ## 📈 Objectifs
 - Aider mes clients à gagner du temps et à booster leur visibilité en ligne
 - Partager et collaborer sur des projets innovants
